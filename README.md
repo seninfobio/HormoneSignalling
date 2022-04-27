@@ -14,3 +14,6 @@
 
 4. [Abscisic acid (ABA) sensitivity regulates desiccation tolerance in germinated Arabidopsis seeds](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.12785)
 ![img](https://nph.onlinelibrary.wiley.com/cms/asset/d76c8c9a-22b4-4bb4-9694-5b5ac86a93b9/nph12785-fig-0003-m.jpg)
+
+5. [Transcriptional and physiological data revealed cold tolerance in a photo-thermo sensitive genic male sterile line Yu17S](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-022-03437-8)
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12870-022-03437-8/MediaObjects/12870_2022_3437_Fig3_HTML.png?as=webp)
