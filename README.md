@@ -2,6 +2,8 @@
 
 [DESEQ2](https://lashlock.github.io/compbio/R_presentation.html)
 
+[DESEQ_Modeldata](https://bioconnector.github.io/workshops/data.html)
+
 ```{r}
 
 #Install packages and load libraries
