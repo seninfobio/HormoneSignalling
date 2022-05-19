@@ -103,3 +103,6 @@ plotPCA(vsdata, intgroup="dex") #using the DESEQ2 plotPCA fxn we can
 6. [Identification of major candidate genes for multiple abiotic stress tolerance at seedling stage by network analysis and their validation by expression profiling in rice (Oryza sativa L.)](https://link.springer.com/article/10.1007/s13205-022-03182-7)
 ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs13205-022-03182-7/MediaObjects/13205_2022_3182_Fig1_HTML.png?as=webp)
 ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs13205-022-03182-7/MediaObjects/13205_2022_3182_Fig2_HTML.png?as=webp)
+
+7.[Transcriptomic and metabolomic landscape of quinoa during seed germination](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-022-03621-w#Sec10)
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12870-022-03621-w/MediaObjects/12870_2022_3621_Fig2_HTML.png?as=webp)
