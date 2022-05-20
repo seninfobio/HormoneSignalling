@@ -109,5 +109,5 @@ plotPCA(vsdata, intgroup="dex") #using the DESEQ2 plotPCA fxn we can
 
 8.[14-3-3 Proteins in Plant Hormone Signaling: Doing Several Things at Once](https://www.frontiersin.org/articles/10.3389/fpls.2018.00297/full#h5)
 
-
+9. [Gene expression profiling reveals transcription factor networks and subgenome bias during Brassica napus seed development](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.15587)
 
