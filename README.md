@@ -106,3 +106,8 @@ plotPCA(vsdata, intgroup="dex") #using the DESEQ2 plotPCA fxn we can
 
 7.[Transcriptomic and metabolomic landscape of quinoa during seed germination](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-022-03621-w#Sec10)
 ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12870-022-03621-w/MediaObjects/12870_2022_3621_Fig2_HTML.png?as=webp)
+
+8.[14-3-3 Proteins in Plant Hormone Signaling: Doing Several Things at Once](https://www.frontiersin.org/articles/10.3389/fpls.2018.00297/full#h5)
+
+
+
